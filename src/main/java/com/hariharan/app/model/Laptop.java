@@ -1,4 +1,4 @@
-package com.hariharan.app;
+package com.hariharan.app.model;
 
 import org.springframework.stereotype.Component;
 
